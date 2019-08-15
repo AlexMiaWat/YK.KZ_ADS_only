@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YK.KZ объявления</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="Nigth">Nigth</string>
+    <string name="publisher_id_new">ca-app-pub-9163301852390874/6374891805</string>
+    <string name="publisher_id_old">ca-app-pub-9163301852390874/8746371148</string>
+    <string name="publisher_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="share">MainS</string>
+    <string name="ADMOB_APP_ID">ca-app-pub-9163301852390874~6490908748</string>
+</resources>

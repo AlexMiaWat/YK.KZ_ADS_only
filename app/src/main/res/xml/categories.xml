@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+    <category>
+	    <id>-1</id>
+	    <name> </name>
+	    <path></path>
+    </category>
+    <category>
+	    <id>0</id>
+	    <name> Все разделы</name>
+	    <path>/announce/show/0</path>
+    </category>
+    <category>
+	    <id>1</id>
+	    <name>Недвижимость - квартиры</name>
+	    <path>/announce/show/1</path>
+    </category>
+    <category>
+	    <id>2</id>
+	    <name>Продажа разного</name>
+	    <path>/announce/show/3</path>
+    </category>    
+    <category>
+	    <id>3</id>
+	    <name>Вакансии от работодателей</name>
+	    <path>/announce/show/68</path>
+    </category>
+    <category>
+	    <id>4</id>
+	    <name>Спорт и туризм</name>
+	    <path>/announce/show/72</path>
+    </category>
+    <category>
+	    <id>5</id>
+	    <name>Строительство и ремонт</name>
+	    <path>/announce/show/74</path>
+    </category>  
+	<category>
+	    <id>6</id>
+	    <name>Искусство и коллекционирование</name>
+	    <path>/announce/show/77</path>
+    </category>
+    <category>
+	    <id>7</id>
+	    <name>Компьютеры и оргтехника</name>
+	    <path>/announce/show/79</path>
+    </category>
+    <category>
+	    <id>8</id>
+	    <name>Телефоны, мобильная связь</name>
+	    <path>/announce/show/81</path>
+    </category>    
+    <category>
+	    <id>9</id>
+	    <name>Мебель</name>
+	    <path>/announce/show/83</path>
+    </category>
+    <category>
+	    <id>10</id>
+	    <name>Фото, оптика</name>
+	    <path>/announce/show/85</path>
+    </category>
+    <category>
+	    <id>11</id>
+	    <name>Книги, учебники, журналы</name>
+	    <path>/announce/show/87</path>
+    </category>       
+    <category>
+	    <id>12</id>
+	    <name>Оборудование и материалы</name>
+	    <path>/announce/show/89</path>
+    </category>
+    <category>
+	    <id>13</id>
+	    <name>Обмен разного</name>
+	    <path>/announce/show/92</path>
+    </category>
+    <category>
+	    <id>14</id>
+	    <name>Для детей и мам</name>
+	    <path>/announce/show/94</path>
+    </category>    
+    <category>
+	    <id>15</id>
+	    <name>Недвижимость - гаражи</name>
+	    <path>/announce/show/97</path>
+    </category>
+    <category>
+	    <id>16</id>
+	    <name>Недвижимость - дачи, дома, участки</name>
+	    <path>/announce/show/99</path>
+    </category>
+    <category>
+	    <id>17</id>
+	    <name>Одежда - мужская</name>
+	    <path>/announce/show/102</path>
+    </category>  
+	<category>
+	    <id>18</id>
+	    <name>Автомобили</name>
+	    <path>/announce/show/2</path>
+    </category>
+    <category>
+	    <id>19</id>
+	    <name>Покупка разного</name>
+	    <path>/announce/show/4</path>
+    </category>
+    <category>
+	    <id>20</id>
+	    <name>Аудио - видео</name>
+	    <path>/announce/show/69</path>
+    </category>    
+    <category>
+	    <id>21</id>
+	    <name>Бытовая техника</name>
+	    <path>/announce/show/73</path>
+    </category>
+    <category>
+	    <id>22</id>
+	    <name>Бизнес и финансы</name>
+	    <path>/announce/show/76</path>
+    </category>
+    <category>
+	    <id>23</id>
+	    <name>Флора и фауна</name>
+	    <path>/announce/show/78</path>
+    </category>    
+    <category>
+	    <id>24</id>
+	    <name>Оборудование</name>
+	    <path>/announce/show/80</path>
+    </category>
+    <category>
+	    <id>25</id>
+	    <name>Одежда - женская</name>
+	    <path>/announce/show/82</path>
+    </category>
+    <category>
+	    <id>26</id>
+	    <name>Услуги и деятельность</name>
+	    <path>/announce/show/84</path>
+    </category>  
+	<category>
+	    <id>27</id>
+	    <name>Ищу работу</name>
+	    <path>/announce/show/86</path>
+    </category>
+    <category>
+	    <id>28</id>
+	    <name>Здоровье и внешность</name>
+	    <path>/announce/show/88</path>
+    </category>
+    <category>
+	    <id>29</id>
+	    <name>Автомобили - комплектующие</name>
+	    <path>/announce/show/91</path>
+    </category>    
+    <category>
+	    <id>30</id>
+	    <name>Утеряно / найдено</name>
+	    <path>/announce/show/93</path>
+    </category>
+    <category>
+	    <id>31</id>
+	    <name>Недвижимость - коммерческая</name>
+	    <path>/announce/show/96</path>
+    </category>
+    <category>
+	    <id>32</id>
+	    <name>Недвижимость - квартиры - аренда</name>
+	    <path>/announce/show/101</path>
+    </category>
+     <category>
+	    <id>33</id>
+	    <name>Попутчики</name>
+	    <path>/announce/show/99</path>
+    </category>
+	<category>
+		<id>34</id>
+		<name>Обувь</name>
+		<path>/announce/show/103</path>
+	</category>
+</categories>

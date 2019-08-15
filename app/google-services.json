@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "462490107079",
+    "firebase_url": "https://videohub-1264.firebaseio.com",
+    "project_id": "videohub-1264",
+    "storage_bucket": "videohub-1264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462490107079:android:ec3224d5af5b0b03",
+        "android_client_info": {
+          "package_name": "russianapp.yk.kz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462490107079-ugqasa425emj6bidsm5601sj9c2b3vfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7_jkvTA1wkv3j8yV2a2-rMFBFobb5S18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9163301852390874~6490908748"
+    }
+  ],
+  "configuration_version": "1"
+}
